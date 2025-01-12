@@ -1,0 +1,19 @@
+name: Feature request
+description: Solicitar uma funcionalidade
+title: "[FEATURE] Descreva a funcionalidade"
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Descrição da Funcionalidade Desejada**
+        Uma descrição clara e concisa do que você gostaria que acontecesse.
+
+        **Motivação**
+        Por que essa funcionalidade seria útil para a comunidade? Qual problema ela resolveria?
+
+        **Soluções Alternativas**
+        Se você considerou alguma solução alternativa ou solução intermediária, descreva aqui.
+
+        **Contexto Adicional**
+        Adicione qualquer outro contexto ou capturas de tela sobre a solicitação de funcionalidade aqui.
