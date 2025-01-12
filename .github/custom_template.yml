@@ -1,0 +1,19 @@
+name: Custom template
+description: Template personalizado para outros tipos de issues
+title: "Título da Issue"
+labels: [question]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Título**
+        Dê um título claro e conciso para seu relatório.
+
+        **Descrição**
+        Forneça uma descrição detalhada do problema, solicitação de funcionalidade ou outro tipo de issue que você está reportando.
+
+        **Passos para Reproduzir**
+        Se relevante, forneça os passos para reproduzir o problema:
+
+        **Contexto Adicional**
+        Adicione qualquer outro contexto relevante, incluindo capturas de tela, links ou outras informações.
